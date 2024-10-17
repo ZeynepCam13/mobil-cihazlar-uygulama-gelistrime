@@ -1,0 +1,1 @@
+# mobil-cihazlar-uygulama-gelistrime
